@@ -1,0 +1,12 @@
+.imagen {
+    width: 80px;
+    height: 80;
+}
+table, tr, th, td {
+    border: 1px solid #000;
+    border-collapse: collapse;
+}
+td {
+    max-width: 200px;
+    text-align: center;
+}
