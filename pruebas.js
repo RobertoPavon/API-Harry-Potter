@@ -1,3 +1,9 @@
+/* 
+
+            ARCHIVO USADO PARA REALIZAR PRUEBAS DE CODIGO
+
+*/
+
 const datos = data.map((personaje) => 
     `<tr>
         <td> <img class="imagen" src=${personaje.image? personaje.image : 'descarga.jpeg'}></img>'</td> 
