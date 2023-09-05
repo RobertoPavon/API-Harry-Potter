@@ -1,11 +1,3 @@
-// ariana.cruz@bbva.com
-// adair.lopez.carrasco@bbva.com
-// rocio.bermudez@bbva.com
-// ricardo.bernardino.munoz@bbva.com
-// gustavo.antonio.bautista@bbva.com
-// jessica.hernandez.avendano@bbva.com
-// joseeduardo.hernandez3@bbva.com
-
 
 const buscar = document.querySelector('#search');
 const listaPersonaje = document.querySelector('#app');
@@ -17,32 +9,6 @@ fetch(API)
     
 function mostrarDatos(personaje)  {
     listaPersonaje.innerHTML = `
-    <table id="tabla">         
-        <thead>
-            <tr>
-                <th>Imagen</th>
-                <th>Nombre</th>
-                <th>Nombre Alternativo</th>
-                <th>Especie</th>
-                <th>Genero</th>
-                <th>Casa</th>
-                <th>Fecha de Nacimiento</th>
-                <th>Año de Nacimiento</th>
-                <th>Mago</th>
-                <th>Ancestro</th>
-                <th>Color de Ojos</th>
-                <th>Color de Cabello</th>
-                <th>Varita</th>
-                <th>Patronus</th>
-                <th>Estudiante</th>
-                <th>Maestor</th>
-                <th>Actor</th>
-                <th>Actor Alternativo</th>
-                <th>Vive</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
                 ${mapear(personaje)}
             </tr>
         </tbody>
