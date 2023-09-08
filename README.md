@@ -1,7 +1,7 @@
 # API-Harry-Potter
 Fichas de Harry Potter para extraer la información de los personajes de las peliculas a través de una API.
 
-Este ejercicio es fue realizado para una prueba tecnica, las instrucciones fueron las siguientes:
+Este ejercicio fue realizado como parte de  una prueba tecnica, las instrucciones fueron las siguientes:
   1. Consumir la API https://hp-api.onrender.com/api/characters
   2. Mostrar la ficha de presentación de cada uno de los personajes con la información más representativa. Para la elaboración de las fichas puede hacer uso de bootstrap, materialize o cualquier otra     librería externa, en su defecto mostrarlo a forma de tabla.
   3. Para los personajes que no cuenten con imagen, asignar una por defecto.
