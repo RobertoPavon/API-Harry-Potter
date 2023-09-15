@@ -1,6 +1,17 @@
 # API-Harry-Potter
 Fichas de Harry Potter para extraer la información de los personajes de las peliculas a través de una API.
 
+(vista principal)
+<img width="1439" alt="PRINCIPAL" src="https://github.com/RobertoPavon/API-Harry-Potter/assets/136355355/3f2bc167-69b9-4934-96c5-375a522409b8">
+
+
+(busqueda por medio del input)
+<img width="1440" alt="BUSQUEDA_INPUT" src="https://github.com/RobertoPavon/API-Harry-Potter/assets/136355355/058c9dad-3cd4-41d8-9b5b-acffdf7c836e">
+
+(busqueda por medio del select)
+<img width="1440" alt="BUSQUEDA_SELECT" src="https://github.com/RobertoPavon/API-Harry-Potter/assets/136355355/50ba97f0-4455-4cdf-a6ea-f3c040528d26">
+
+
 Este ejercicio fue realizado como parte de  una prueba tecnica, las instrucciones fueron las siguientes:
   1. Consumir la API https://hp-api.onrender.com/api/characters
   2. Mostrar la ficha de presentación de cada uno de los personajes con la información más representativa. Para la elaboración de las fichas puede hacer uso de bootstrap, materialize o cualquier otra     librería externa, en su defecto mostrarlo a forma de tabla.
