@@ -2,14 +2,17 @@
 Fichas de Harry Potter para extraer la información de los personajes de las peliculas a través de una API.
 
 (vista principal)
-<img width="1439" alt="PRINCIPAL" src="https://github.com/RobertoPavon/API-Harry-Potter/assets/136355355/3f2bc167-69b9-4934-96c5-375a522409b8">
+<img width="1422" alt="PRINCIPAL" src="https://github.com/RobertoPavon/API-Harry-Potter/assets/136355355/3039fbb8-c250-4795-86cc-e28c8443e83b">
+
 
 
 (busqueda por medio del input)
-<img width="1440" alt="BUSQUEDA_INPUT" src="https://github.com/RobertoPavon/API-Harry-Potter/assets/136355355/058c9dad-3cd4-41d8-9b5b-acffdf7c836e">
+<img width="1440" alt="BUSQUEDA_INPUT" src="https://github.com/RobertoPavon/API-Harry-Potter/assets/136355355/5662a7cf-a61e-43b3-8d41-9c6510d3328e">
+
 
 (busqueda por medio del select)
-<img width="1440" alt="BUSQUEDA_SELECT" src="https://github.com/RobertoPavon/API-Harry-Potter/assets/136355355/50ba97f0-4455-4cdf-a6ea-f3c040528d26">
+<img width="1440" alt="BUSQUEDA_SELECT" src="https://github.com/RobertoPavon/API-Harry-Potter/assets/136355355/31aa75b1-3e39-4b06-a713-e1e6b5048667">
+
 
 
 Este ejercicio fue realizado como parte de  una prueba tecnica, las instrucciones fueron las siguientes:
